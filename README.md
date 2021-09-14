@@ -30,7 +30,6 @@
 <br>
 
 #### Databases
-<img align="left" alt="Python" src="https://img.shields.io/badge/-MongoDB-3FA037?logo=mongodb&logoColor=white&style=for-the-badge" />
 <img align="left" alt="Python" src="https://img.shields.io/badge/-MySQL-f29111?logo=mysql&logoColor=1d1d1d&style=for-the-badge" />
 
 <br>
