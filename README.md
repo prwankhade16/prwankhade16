@@ -1,66 +1,134 @@
-## Hi there&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px"> I'm Pramod Wankhade &nbsp; :muscle: :nerd_face:
+# Hi there 👋 I'm Pramod Wankhade
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-wankhade-2131001b8/ "Connect on LinkedIn")
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pramodwankhade360@gmail.com "Connect via Email")
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-4c68d7?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pramodwankhade16/?hl=en "Connect via Instagram")
-![visitors](https://visitor-badge.glitch.me/badge?page_id=prwankhade16.prwankhade16)
+### Applied AI Engineer | Generative AI Engineer | LLM Engineer
 
-🏡 &nbsp; I am from Akola, Maharashtra.  
-🎓 &nbsp; Currently pursuing B.Tech in Computer Science and Engineering at Government College of Engineering, Aurangabad.  
-❤️ &nbsp; Learning new technologies and applying them in the real-world is my passion.  
-💬 &nbsp; Looking for internship in web development!  
-📫 &nbsp; Reach me on any of the platforms given above!
+I am an AI Engineer with 3+ years of experience building Large Language Model (LLM) powered applications, AI Agents, Text-to-SQL systems, and enterprise AI automation platforms.
 
-#### Frontend
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=1d1d1d&style=for-the-badge"/>
+Currently working at **Tata Research Development and Design Centre (TRDDC), TCS Research**, where I contribute to cutting-edge research and development in:
 
-<br>  
+* 🤖 Generative AI
+* 🧠 Large Language Models (LLMs)
+* 🔄 Agentic AI Workflows
+* 📊 Text-to-SQL Systems
+* 🏗️ AI-Powered Code Generation
+* 🔍 Retrieval-Augmented Generation (RAG)
+* 📚 NLP & Semantic Retrieval
+* ⚙️ Multi-Agent Systems
 
-#### Programming Languages
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+---
 
-<br>
+## 🚀 Current Focus
 
-#### Backend
-<img align="left" alt="Python" src="https://img.shields.io/badge/-NodeJS-3c873a?logo=node.js&logoColor=white&style=for-the-badge" />
+### Excel-to-Code AI Platform
 
-<br>
+Building an AI-powered system that converts complex Excel workbooks into production-ready Java applications using:
 
-#### Databases
-<img align="left" alt="Python" src="https://img.shields.io/badge/-MySQL-f29111?logo=mysql&logoColor=1d1d1d&style=for-the-badge" />
+* Azure OpenAI
+* LangChain
+* LangGraph
+* Multi-Agent Systems
+* Code Generation
+* Business Rule Extraction
+* Automated Reasoning
 
-<br>
+---
 
-#### Others
-<img align="left" alt="Python" src="https://img.shields.io/badge/-Git-f34f29?logo=git&logoColor=white&style=for-the-badge" />
-<img align="left" alt="Python" src="https://img.shields.io/badge/-Linux-333333?logo=linux&logoColor=white&style=for-the-badge" />
+## 🔬 Research & Innovation
 
-<br>
+### Publication
 
-### Stats
-<img src = "https://github-readme-stats.vercel.app/api?username=prwankhade16&show_icons=true&theme=radical">
+**The Parameterization Gap: Backtracking Multimodal NL2PSQL**
 
-<!-- Total Visitors Badge -->
+📖 Accepted at **Australasian Database Conference (ADC) 2025**
 
+🔗 Paper:
+https://link.springer.com/chapter/10.1007/978-981-95-6196-4_18
 
-[linkedin]: https://www.linkedin.com/in/pramod-wankhade-2131001b8/
-[email]: https://mail.google.com/mail/?extsrc=mailto&url=mailto%3A%3Fto%3Dpramodwankhade360%40gmail.com
+### Key Contributions
 
+* Multimodal Text-to-SQL Systems
+* Query Synthesis
+* Query Repair
+* Schema Selection
+* Automated Validation
+* LLM-Based SQL Generation
 
-<!--
-**prwankhade16/prwankhade16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Patent
 
-Here are some ideas to get you started:
+📌 Patent Filed
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI-Driven Multimodal Query Synthesis and Automated SQL Generation Framework
+
+### International Presentation
+
+🌏 Presented research work in **Bali, Indonesia** representing TCS Research at an international conference.
+
+---
+
+## 💻 Tech Stack
+
+### AI & Generative AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF4500?style=for-the-badge)
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B68EE?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Pramod's GitHub stats](https://github-readme-stats.vercel.app/api?username=prwankhade16\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prwankhade16\&layout=compact\&theme=radical)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pramod-wankhade-2131001b8/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/prwankhade16)
+
+📧 Email: [pramodwankhade16@gmail.com](mailto:pramodwankhade16@gmail.com)
+
+---
+
+### 💡 Interests
+
+* Applied AI
+* Generative AI
+* AI Agents
+* Agentic Workflows
+* Text-to-SQL
+* NLP
+* Program Synthesis
+* LLM Evaluation
+* RAG Systems
+* Enterprise AI Platforms
+* Multi-Agent Architectures
+* AI Research
